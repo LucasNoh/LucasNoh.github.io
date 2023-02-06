@@ -1,10 +1,11 @@
-![image](https://user-images.githubusercontent.com/124519041/216836134-fc8501ec-8ba8-46ad-8753-70c53e38842f.png)
-
-# Financial Well-being for Remote Workers
+---
+layout: single
+title: Financial Well-being for Remote Workers
+---
 
 The rise of remote work has created a new set of financial challenges for workers, particularly those who were not prepared for the sudden transition. However, with the right strategies and resources, remote workers can maintain financial stability and achieve financial well-being.
 
-
+![image](https://user-images.githubusercontent.com/124519041/216836134-fc8501ec-8ba8-46ad-8753-70c53e38842f.png)
 
 ## Budgeting and Expense Management
 One of the key factors in financial well-being for remote workers is budgeting and expense management. Remote workers must be diligent about tracking their income and expenses, setting achievable financial goals, and developing a budget that reflects their new reality.
