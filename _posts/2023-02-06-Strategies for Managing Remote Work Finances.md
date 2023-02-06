@@ -4,6 +4,7 @@ title: Strategies for Managing Remote Work Finances
 ---
 
 Remote work has become a norm in today's society, with more and more people opting for a flexible and location-independent lifestyle. While this has its benefits, it also presents new challenges when it comes to financial management. In this blog, we will explore some effective strategies for managing finances while working remotely.
+
 ![image](https://user-images.githubusercontent.com/124519041/216881017-3813c553-5bbd-4746-ba82-cfd081ccf98e.png)
 
 ## Create a Budget 
